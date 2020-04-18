@@ -14,4 +14,4 @@
 
 # ls
 
-# php babangacong.php
+# php BabangAcong.php
